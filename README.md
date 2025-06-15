@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestBlok.uz - Frontend Only Version
 
 Professional onlayn test platformasi - faqat frontend versiyasi
@@ -176,3 +177,7 @@ MIT License - [LICENSE](LICENSE) faylini ko'ring
 ---
 
 **TestBlok.uz** - Abituriyentlar uchun professional test platformasi! 🎓
+=======
+# said_sayt
+said saytt
+>>>>>>> 880d8a2c6e8f0199124402cf5733cf95da6c57e7
